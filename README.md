@@ -24,4 +24,4 @@ flask run
 
 This will start the Flask development server and allow you to access the API from your local machine.
 
-[MUJAHID](google.com)
+[Store REST API](https://github.com/mujahxd/rest-api-project/blob/master/store-rest-api.json)
