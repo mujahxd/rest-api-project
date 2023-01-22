@@ -24,4 +24,10 @@ flask run
 
 This will start the Flask development server and allow you to access the API from your local machine.
 
-[Store REST API](https://github.com/mujahxd/rest-api-project/blob/master/store-rest-api.json)
+
+## How to test API
+To test the API, Run the following command:
+1. Open Insomnia Application
+2. Then import __store-rest-api.json__
+
+
