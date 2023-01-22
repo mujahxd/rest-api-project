@@ -8,7 +8,9 @@ This API all it will do is it will receive the store data, add it to the databas
 
 To install the necessary dependencies for this project, run the following command:
 
+```bash
 pip install -r requirements.txt
+```
 
 his will install all the necessary libraries and modules.
 
