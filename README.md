@@ -12,12 +12,14 @@ To install the necessary dependencies for this project, run the following comman
 pip install -r requirements.txt
 ```
 
-his will install all the necessary libraries and modules.
+This will install all the necessary libraries and modules.
 
 ## Running the Project
 
 To run the project, Run the following command:
 
+```bash
 flask run
+```
 
 This will start the Flask development server and allow you to access the API from your local machine.
