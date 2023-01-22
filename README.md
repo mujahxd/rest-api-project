@@ -28,10 +28,12 @@ This will start the Flask development server and allow you to access the API fro
 ## How to test API
 To test the API, Run the following command:
 1. Open Insomnia Application
-2. Then import __store-rest-api.json__
+2. Then import _store-rest-api.json_
 
-**A**
-__A__
+You can go to [http://localhost:5000/swagger-ui](http://localhost:5000/swagger-ui) to see the endpoint generated using swagger ui.
+
+
+
 
 
 
